@@ -1,8 +1,9 @@
-**ES6**
+# ES6
+
 * Is the standard that Javascript programming language uses.
 * It provides specification on how Javascript programming language should work.
 
-# Learning objectives
+** Learning objectives**
 
 * What is ES6
 * New feautres introduced in ES6
